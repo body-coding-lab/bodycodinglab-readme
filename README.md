@@ -13,7 +13,7 @@
     <th>이준우</th>
   </tr>
   <tr align="center">
-    <td style="font-size:90px">👻</td>
+    <td><img src="https://em-content.zobj.net/source/microsoft-3D-fluent/406/ghost_1f47b.png" width="150"></td>
     <td><img src="https://avatars.githubusercontent.com/u/201715606?v=4" width="150"></td>
     <td><img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" width="150"></td>
   </tr>
