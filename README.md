@@ -80,22 +80,18 @@
 
 # 4. Technology Stack (기술 스택)
 
-| Category              | Stack             | Version |
-|:---------------------:|:-----------------:|:-----------------:|
-| Language              | `Java`            | 17 |
-| Frameworks            | `Spring Boot`     | 3.5.3 |
-| Build Tools           | `Gradle`          | - |
-| Tool                  | `intelliJ`        | 2025.1 |
-| Version Control       | `GitHub`          | - |
-| Version Control       | `Git`             | - |
-| Application Server    | `Tomcat`          | 10.1.41 |
-| Database              | `MySQL`           | 8 |
-| Libraries             | `Spring Data JPA` | - |
-| Libraries             | `Spring Security` | - |
-| Libraries             | `Spring Web MVC`  | - |
-| Libraries             | `Hibernate`       | 8.0.0 |
-| Libraries             | `Lombok`          | - |
-| API and JSON Handling | `Jackson`         | 2.19.0 |
+| Category              | Stack             |
+|:----------------------|:------------------|
+| Language | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> |
+| Frameworks | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"> |
+| Libraries | `Spring Data JPA` `Spring Security` `Spring Web MVC` `Hibernate` `Lombok` |
+| API and JSON Handling | `Jackson` |
+| Database | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> |
+| Application Server | <img src="https://img.shields.io/badge/Apache%20Tomcat-F7DF1E?style=for-the-badge&logo=Apache-Tomcat&logoColor=white"/> |
+| Build Tools | <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/> |
+| IDE | <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"> |
+| Tools | <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> |
+| Version Control | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> |
 
 <br/>
 <br/>
