@@ -84,7 +84,7 @@
 |:----------------------|:------------------|
 | Language | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> |
 | Frameworks | <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"> |
-| Libraries | `Spring Data JPA` `Spring Security` `Spring Web MVC` `Lombok` |
+| Libraries | `Spring Data JPA` `Spring Security` `Spring Web MVC` `Validation` `Lombok` |
 | API and JSON Handling | `Jackson` |
 | Database | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> |
 | Application Server | <img src="https://img.shields.io/badge/Apache%20Tomcat-F7DF1E?style=for-the-badge&logo=Apache-Tomcat&logoColor=white"/> |
